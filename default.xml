@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="http://github.com"/>
+  <remove-project name="android_hardware_hardkernel_libodroid-gps" />
+  <project path="hardware/hardkernel/libodroid-gps" name="IanCass/android_hardware_hardkernel_libodroid-gps" groups="pdk" remote="github" revision="refs/heads/master" />
+
+</manifest>
