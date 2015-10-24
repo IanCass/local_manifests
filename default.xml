@@ -7,4 +7,7 @@
   <remove-project name="android_device_hardkernel_odroidc" />
   <project path="device/hardkernel/odroidc" name="IanCass/android_device_hardkernel_odroidc" groups="device" remote="github" revision="refs/heads/s805_4.4.2_master" />
 
+  <remove-project name="android_frameworks_base" />
+  <project path="frameworks/base" name="IanCass/android_frameworks_base" remote="github" revision="refs/heads/s805_4.4.2_master" />
+
 </manifest>
