@@ -4,4 +4,7 @@
   <remove-project name="android_hardware_hardkernel_libodroid-gps" />
   <project path="hardware/hardkernel/libodroid-gps" name="IanCass/android_hardware_hardkernel_libodroid-gps" groups="pdk" remote="github" revision="refs/heads/master" />
 
+  <remove-project name="android_device_hardkernel_odroidc" />
+  <project path="device/hardkernel/odroidc" name="IanCass/android_device_hardkernel_odroidc" groups="device" remote="github" revision="refs/heads/s805_4.4.2_master" />
+
 </manifest>
